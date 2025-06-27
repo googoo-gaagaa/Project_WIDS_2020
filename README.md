@@ -2,7 +2,7 @@
 
 The goal of this project is to build a machine learning model that predicts in-hospital mortality (hospital_death) based on patient clinical records. This is a critical problem in healthcare for early warning systems and improving clinical decision-making.
 
-Here is the link to the competition: https://www.kaggle.com/c/widsdatathon2020/data
+Here is link to the data of the competition: https://www.kaggle.com/c/widsdatathon2020/data
 
 ### Problem Challenges faced
 - **Severe class imbalance**: Deaths are rare compared to survival.
