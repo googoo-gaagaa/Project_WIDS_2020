@@ -35,3 +35,4 @@ Here is link to the data of the competition: https://www.kaggle.com/c/widsdatath
 ### Conclusion
 - This project demonstrates a robust, leakage-free pipeline for medical prediction tasks involving structured data with class imbalance and group dependencies. XGBoost with proper validation and preprocessing achieves reliable results for hospital mortality prediction.
 
+#### Done by Dhriti Jain and Ganta Nideesh
